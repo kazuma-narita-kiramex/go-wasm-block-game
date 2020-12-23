@@ -7,7 +7,8 @@ https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_J
 # 使い方
 
 ```
-go version go1.13.4
+$ go version
+go version go1.15.2 darwin/amd64
 ```
 
 ```
